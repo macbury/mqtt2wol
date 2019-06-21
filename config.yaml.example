@@ -1,0 +1,6 @@
+mqtt:
+  command_topic: 'home/gateway/wol'
+  host: ''
+  port: 4105
+  username: ''
+  password: ''
